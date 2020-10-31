@@ -36,3 +36,5 @@ I wanna see it painted, painted, painted, painted black
 Yeah!
 
 line for commit A
+
+line for commit B
