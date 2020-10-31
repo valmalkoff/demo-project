@@ -34,3 +34,5 @@ Black as night, black as coal
 I wanna see the sun flying high in the sky
 I wanna see it painted, painted, painted, painted black
 Yeah!
+
+line for commit A
